@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: '太原高纯气体山西高纯气体配送18135156553'
+subtitle: '主要配送高纯氮气，高纯氩气，高纯氦气，高纯氢气，高纯氧气，仪器设备校准用标准气'
+description: '主要经营太原市、大同市、朔州市、忻州市、阳泉市、吕梁市、晋中市、长治市、晋城市、临汾市、运城市区域高纯气体配送。'
+keywords: '山西高纯氮气,山西高纯氮气,山西标准气,山西高纯氩气,山西实验室气体配送'
+author: '张先生'
+language: 'zh-CN'
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://wcrck.cc.cd
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -101,4 +101,6 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/wcrack/tngas.git
+  branch: main
