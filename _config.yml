@@ -98,9 +98,3 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: icarus
 
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: https://github.com/wcrack/tngas.git
-  branch: main
