@@ -1,8 +1,8 @@
 ---
 title: "Hydrogen Energy Basics Guide: From Principles to Applications"
-date: 2026-10-11
-tags: [hydrogen-energy, basic-knowledge, safety-use, environmental-benefits, taiyuan-hydrogen]
-categories: [hydrogen-science, energy-knowledge]
+date: 2026-10-16
+tags: []
+categories: [高纯氢气]
 
 ---
 ![氢能源基础知识](images/2026-10-11-hydrogen-basics.jpg)

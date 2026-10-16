@@ -1,8 +1,8 @@
 ---
 title: 液氮魔法：用工业气体制作极致冰激凌的科学艺术
-date: 2026-10-11
-tags: [液氮, 冰激凌, 工业气体, 美食创新, 太原特色]
-categories: [工业气体应用, 美食创新]
+date: 2026-10-16
+tags: ["液氮应用", "美食创新", "工业气体"]
+categories: [高纯氢气]
 ---
 
 ![液氮冰激凌制作](images/2026-10-11-liquid-nitrogen-ice-cream.jpg)

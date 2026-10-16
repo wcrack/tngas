@@ -1,8 +1,8 @@
 ---
 title: "氢能市场动态分析：价格走势与供需格局深度解读"
-date: 2026-10-13
-tags: [氢能市场, 价格分析, 供需动态, 太原氢能, 行业趋势]
-categories: [氢能市场分析, 行业动态]
+date: 2026-10-16
+tags: ["市场分析"]
+categories: [高纯氢气]
 ---
 ![氢气市场动态分析图表](images/2026-10-13-hydrogen-market-trends.jpg)
 

@@ -1,8 +1,8 @@
 ---
 title: "氢能安全使用完全指南：从储存到应用的全方位保障"
-date: 2026-10-11
-tags: [hydrogen-safety, hydrogen-storage, hydrogen-application, safety-standards, taiyuan-hydrogen]
-categories: [hydrogen-science, safety-education]
+date: 2026-10-16
+tags: []
+categories: [高纯氢气]
 ---
 ![氢气安全综合指南](images/2026-10-11-hydrogen-safety-guide.jpg)
 

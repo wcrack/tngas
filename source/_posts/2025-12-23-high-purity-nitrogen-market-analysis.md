@@ -1,8 +1,8 @@
 ---
 title: 高纯氮气(99.999%)市场动态与价格走势深度分析
-date: 2025-12-23
-tags: [高纯氮气, 市场分析, 价格走势, 供需关系, 太原市场]
-categories: [工业气体, 市场动态]
+date: 2026-10-16
+tags: ["氮气应用", "市场分析"]
+categories: [高纯氮气]
 description: 深度分析高纯氮气市场供需格局、价格走势及政策环境影响，结合山西地区工业需求特点
 ---
 ![高纯氮气工业应用](images/2025-12-23-nitrogen-industrial-applications.jpg)

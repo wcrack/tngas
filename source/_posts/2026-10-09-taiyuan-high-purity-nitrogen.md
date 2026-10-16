@@ -1,8 +1,8 @@
 ---
 title: 太原高纯氮气采购指南：供应渠道、价格参考与选型要点
-date: 2026-10-09
-tags: [高纯氮气, 太原工业气体, 氮气供应, 气体采购, 工业气体]
-categories: [工业气体, 氮气产品]
+date: 2026-10-16
+tags: ["氮气应用", "工业气体"]
+categories: [高纯氮气]
 ---
 ![太原高纯氮气产业](images/2026-10-09-taiyuan-nitrogen-industry.jpg)
 
