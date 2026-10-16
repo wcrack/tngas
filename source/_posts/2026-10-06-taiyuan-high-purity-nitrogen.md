@@ -11,6 +11,8 @@ categories:
   - 工业气体
   - 技术指南
 ---
+![太原高纯氮气产业](images/2026-10-06-taiyuan-nitrogen-industry.jpg)
+
 
 # 太原高纯氮气采购/供应/价格/选型/配送全攻略
 

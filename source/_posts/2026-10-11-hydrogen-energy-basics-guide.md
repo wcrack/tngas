@@ -5,6 +5,8 @@ tags: [hydrogen-energy, basic-knowledge, safety-use, environmental-benefits, tai
 categories: [hydrogen-science, energy-knowledge]
 
 ---
+![氢能源基础知识](images/2026-10-11-hydrogen-basics.jpg)
+
 
 # Hydrogen Energy Basics Guide: From Principles to Applications
 

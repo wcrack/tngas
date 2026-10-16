@@ -4,6 +4,8 @@ date: 2026-10-11
 tags: [hydrogen-environmental, hydrogen-future, clean-energy, taiyuan-hydrogen, green-technology]
 categories: [hydrogen-science, environmental-education]
 ---
+![氢气环保优势示意图](images/2026-10-11-hydrogen-green-energy.jpg)
+
 
 # 氢能的环保优势与未来应用：绿色能源的革命性突破
 
