@@ -1,7 +1,7 @@
 ---
 title: "氢能的环保优势与未来应用：绿色能源的革命性突破"
 date: 2026-10-16
-tags: []
+tags: ["氢气应用", "环保优势"]
 categories: [高纯氢气]
 ---
 ![氢气环保优势示意图](images/2026-10-11-hydrogen-green-energy.jpg)

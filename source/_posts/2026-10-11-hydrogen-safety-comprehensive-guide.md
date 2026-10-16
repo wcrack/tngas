@@ -1,7 +1,7 @@
 ---
 title: "氢能安全使用完全指南：从储存到应用的全方位保障"
 date: 2026-10-16
-tags: []
+tags: ["氢气应用", "安全指南"]
 categories: [高纯氢气]
 ---
 ![氢气安全综合指南](images/2026-10-11-hydrogen-safety-guide.jpg)

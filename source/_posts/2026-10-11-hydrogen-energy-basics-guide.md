@@ -1,7 +1,7 @@
 ---
 title: "Hydrogen Energy Basics Guide: From Principles to Applications"
 date: 2026-10-16
-tags: []
+tags: ["氢气应用", "科普教育"]
 categories: [高纯氢气]
 
 ---
